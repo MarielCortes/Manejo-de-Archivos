@@ -1,0 +1,8 @@
+F:\4°A\programacion\Manejo de Archivos\Manejo de Archivos\bin\Debug\Manejo de Archivos.exe
+F:\4°A\programacion\Manejo de Archivos\Manejo de Archivos\bin\Debug\Manejo de Archivos.pdb
+F:\4°A\programacion\Manejo de Archivos\Manejo de Archivos\obj\Debug\Manejo de Archivos.csprojResolveAssemblyReference.cache
+F:\4°A\programacion\Manejo de Archivos\Manejo de Archivos\obj\Debug\Manejo_de_Archivos.Form1.resources
+F:\4°A\programacion\Manejo de Archivos\Manejo de Archivos\obj\Debug\Manejo_de_Archivos.Properties.Resources.resources
+F:\4°A\programacion\Manejo de Archivos\Manejo de Archivos\obj\Debug\Manejo de Archivos.csproj.GenerateResource.Cache
+F:\4°A\programacion\Manejo de Archivos\Manejo de Archivos\obj\Debug\Manejo de Archivos.exe
+F:\4°A\programacion\Manejo de Archivos\Manejo de Archivos\obj\Debug\Manejo de Archivos.pdb
